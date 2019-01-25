@@ -1,0 +1,56 @@
+Reading file ass3w1.pls ....Please wait
+
+Printing input buffer parameters:
+
+The capacity of the buffer is:  285
+The current size of the buffer is:  285
+
+Printing input buffer contents:
+
+!!This program contains a syntax error
+
+PLATYPUS{
+WRITE("If there is a possibility of several things going wrong,
+         the one that will cause the most damage will be the first
+         one to go wrong. Murphy's law");
+ c=(-(d+e))*f-
+   ((d-e)*a)/f); !! Missing "(" or extra ")"
+}ÿ
+
+Parsing the source file...
+
+PLATY: Output list (string literal) parsed
+PLATY: Output statement parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Unary arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Assignment expression (arithmetic) parsed
+PLATY: Syntax error:  Line:  8
+*****  Token code: 13 Attribute: NA
+PLATY: Assignment statement parsed
+PLATY: Program parsed
+PLATY: Source file parsed
+
+Syntax errors: 1
+
+Collecting garbage...

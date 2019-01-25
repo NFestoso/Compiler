@@ -1,0 +1,22 @@
+Reading file ass3e.pls ....Please wait
+
+Printing input buffer parameters:
+
+The capacity of the buffer is:  152
+The current size of the buffer is:  152
+
+Printing input buffer contents:
+
+!!This is the greatest of all programs
+!!The law of computer programming:
+!!"If a program is useless, it will have to be well documented." 
+
+PLATYPUS{}ÿ
+
+Parsing the source file...
+
+PLATY: Opt_statements parsed
+PLATY: Program parsed
+PLATY: Source file parsed
+
+Collecting garbage...

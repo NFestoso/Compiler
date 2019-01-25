@@ -1,0 +1,69 @@
+Reading file ass3w3.pls ....Please wait
+
+Printing input buffer parameters:
+
+The capacity of the buffer is:  354
+The current size of the buffer is:  354
+
+Printing input buffer contents:
+
+!!This program contains a syntax error
+!!Forsyth's second corollary to Murphy's law:
+!!"Just when you see the light at the end of the tunnel, the roof caves."
+
+PLATYPUS{
+ READ(IF);
+ a$ = "";
+ READ(b,a,b$);
+ IF TRUE(if == "begin" .AND a$ |= a)THEN {
+   a$ = "begin" # a$ # b$ # "end";
+ 
+^@#$&} ELSE{REPEAT};
+PLATYPUS !!What is this creature doing here?
+}ÿ
+
+Parsing the source file...
+
+PLATY: Syntax error:  Line:  6
+*****  Token code: 16 Attribute: IF
+PLATY: Variable list parsed
+PLATY: Syntax error:  Line:  6
+*****  Token code: 16 Attribute: IF
+PLATY: Input statement parsed
+PLATY: Primary string expression parsed
+PLATY: String expression parsed
+PLATY: Assignment expression (string) parsed
+PLATY: Assignment statement parsed
+PLATY: Variable list parsed
+PLATY: Input statement parsed
+PLATY: Primary a_relational expression parsed
+PLATY: Syntax error:  Line:  9
+*****  Token code:  6 Attribute: begin
+PLATY: Primary a_relational expression parsed
+PLATY: Relational expression parsed
+PLATY: Conditional expression parsed
+PLATY: Syntax error:  Line:  9
+*****  Token code:  6 Attribute: begin
+PLATY: Primary string expression parsed
+PLATY: Primary string expression parsed
+PLATY: Primary string expression parsed
+PLATY: Primary string expression parsed
+PLATY: String expression parsed
+PLATY: Assignment expression (string) parsed
+PLATY: Syntax error:  Line: 12
+*****  Token code:  0 Attribute: ^
+PLATY: Assignment statement parsed
+PLATY: Syntax error:  Line: 12
+*****  Token code:  0 Attribute: @
+PLATY: Opt_statements parsed
+PLATY: Syntax error:  Line: 12
+*****  Token code: 16 Attribute: REPEAT
+PLATY: Selection statement parsed
+PLATY: Syntax error:  Line: 13
+*****  Token code: 16 Attribute: PLATYPUS
+PLATY: Program parsed
+PLATY: Source file parsed
+
+Syntax errors: 6
+
+Collecting garbage...

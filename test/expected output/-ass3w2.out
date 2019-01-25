@@ -1,0 +1,42 @@
+Reading file ass3w2.pls ....Please wait
+
+Printing input buffer parameters:
+
+The capacity of the buffer is:  171
+The current size of the buffer is:  171
+
+Printing input buffer contents:
+
+!!This program contains syntax errors
+!!Ginsberg's theorems:
+!!1.You can't win
+!!2.You can't break even
+!!3.You can't even quit the game
+PLATYPUS{
+  a_ = a + . (- b);
+};
+ÿ
+
+Parsing the source file...
+
+PLATY: Syntax error:  Line:  7
+*****  Token code:  0 Attribute: _
+PLATY: Primary arithmetic expression parsed
+PLATY: Syntax error:  Line:  7
+*****  Token code:  0 Attribute: .
+PLATY: Primary arithmetic expression parsed
+PLATY: Unary arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Assignment expression (arithmetic) parsed
+PLATY: Assignment statement parsed
+PLATY: Program parsed
+PLATY: Syntax error:  Line:  8
+*****  Token code: 18 Attribute: NA
+PLATY: Source file parsed
+
+Syntax errors: 3
+
+Collecting garbage...
