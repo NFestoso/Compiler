@@ -1,7 +1,8 @@
 /***********************************************************************************************************************************
 File name:	        buffer.c
 Compiler:           Ansi C
-Author:             Billy Saint- Fort, 040-831-048
+Author:             Billy Saint- Fort
+Author:		    Nathan Festoso
 Course:             CST 8152 - Compilers, Lab Section: 12
 Assignement:        1
 Date:               2017-09-28
